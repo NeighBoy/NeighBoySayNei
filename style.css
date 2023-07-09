@@ -1,0 +1,53 @@
+body
+{
+    text-align: center;
+    background-color: aqua;
+}
+.container{
+  background-color: mediumseagreen;  
+}
+#app {
+    background-color: lightcoral;
+}
+
+#myCarousel
+{
+    background-color: lightsalmon;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#left {
+    color: blue;
+}
+
+#right {
+    color: violet;
+}
+
+#cargo {
+    color: red;
+}
+
+#space {
+    color: orange;
+}
+
+#birdie {
+    color: yellow;
+}
+
+#unavailable {
+    color: green;
+}
